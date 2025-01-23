@@ -1,4 +1,3 @@
-
 # Chess | Mini Python-Project
 
 ## Table of Contents
@@ -53,12 +52,22 @@ pip install python-chess
 - **help**: View instructions anytime during the game.  
 
 ### Running the Game:
-1. Clone it into your system.
-2. Run the program:
-```bash
-python chess_game.py
-```
-3. Follow the on-screen prompts to play the game.
+
+1. Clone the repository into your system by clicking the link:  
+   [Clone Chess-Mini-Python-Project](https://github.com/ysathyasai/Chess-Mini-Python-Project)
+
+2. Navigate into the project directory:
+   ```bash
+   cd Chess-Mini-Python-Project
+   ```
+   
+3. Run the program:
+   ```bash
+   python chess_game.py
+   ```
+   
+4. Follow the on-screen prompts to play the game.
+
 
 ---
 
