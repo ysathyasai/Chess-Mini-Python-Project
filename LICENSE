@@ -173,7 +173,10 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-   END OF TERMS AND CONDITIONS
+   END OF TERMS AND CONDITION
+
+   # chess_game.py
+   # A chess game implemented in Python using the python-chess library
 
    APPENDIX: How to apply the Apache License to your work.
 
@@ -186,7 +189,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2025 Y. Sathya Sai
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
