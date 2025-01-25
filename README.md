@@ -35,6 +35,7 @@ pip install python-chess
 6. **Game Saving**: Save your game as a Portable Game Notation (PGN) file for review.  
 7. **Help Menu**: Access in-game instructions and guidance anytime.  
 8. **Instructions Menu**: Quickly view game commands and gameplay instructions during your session.
+9. **Clear Screen**: Clear the screen and display the current board state at any point during the game.
 
 ---
 
@@ -50,6 +51,7 @@ pip install python-chess
 - **undo**: Undo the last move.  
 - **exit / q**: Quit the game gracefully.  
 - **help**: View instructions anytime during the game.  
+- **clear / c**: Clear the screen and display the current board state.
 
 ### Running the Game:
 
