@@ -55,8 +55,10 @@ pip install python-chess
 
 ### Running the Game:
 
-1. Clone the repository into your system by clicking the link:  
-   [Clone Chess-Mini-Python-Project](https://github.com/ysathyasai/Chess-Mini-Python-Project)
+1. Clone the repository into your system by running this command:  
+   ```bash
+   git clone https://github.com/ysathyasai/Chess-Mini-Python-Project
+   ```
 
 2. Navigate into the project directory:
    ```bash
