@@ -69,7 +69,7 @@ pip install python-chess
    ```
    
 3. Run the program:
-   ```javascript
+   ```css
    python chess_game.py
    ```
    
