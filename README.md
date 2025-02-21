@@ -1,5 +1,8 @@
 # Chess | Mini Python-Project
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Apache License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://choosealicense.com/licenses/apache-2.0/)
+
 ## Table of Contents
 1. [General Info](#general-info)  
 2. [Requirements](#requirements)  
@@ -43,7 +46,7 @@ pip install python-chess
 ### Prerequisites:
 - Ensure **Python 3.8+** is installed on your system.  
 - Install the required library:
-```bash
+```javascript
 pip install python-chess
 ```
 
@@ -56,17 +59,17 @@ pip install python-chess
 ### Running the Game:
 
 1. Clone the repository into your system by running this command:  
-   ```bash
+   ```javascript
    git clone https://github.com/ysathyasai/Chess-Mini-Python-Project
    ```
 
 2. Navigate into the project directory:
-   ```bash
+   ```javascript
    cd Chess-Mini-Python-Project
    ```
    
 3. Run the program:
-   ```bash
+   ```javascript
    python chess_game.py
    ```
    
